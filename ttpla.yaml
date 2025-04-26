@@ -1,0 +1,6 @@
+train: D:/yolov8/datasets/images/train
+val: D:/yolov8/datasets/images/val
+test: D:/yolov8/datasets/images/test
+
+nc: 8
+names: ["insulator_crack", "insulator_pollution", "conductor_corrosion", "conductor_break", "hardware_loose", "tower_rust", "wire_burn", "other_defects"]
